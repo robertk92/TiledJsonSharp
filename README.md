@@ -2,6 +2,7 @@
 
 A simple reflection-free Tiled JSON parser for C# using System.Text.Json.
 XML formats are not supported.
+Tested against Tiled version 1.10.1
 
 Installation:
 
